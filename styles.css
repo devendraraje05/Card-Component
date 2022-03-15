@@ -1,0 +1,79 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card-body{
+    padding-left: 0px;
+    padding-bottom: 0px;
+
+}
+
+.card-img-top{
+    border-radius: 3%;
+}
+
+.attribution{
+    color: hsl(0, 0%, 100%);
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a{
+    color: hsl(228, 45%, 44%);
+}
+
+.card{
+    background-color: hsl(216, 50%, 16%);
+    padding: 15px;
+    margin-top: 7%;
+    margin-bottom: 5%;
+    border-radius: 4%;
+}
+
+.card-title{
+    color: hsl(0, 0%, 100%);
+}
+
+.card-text{
+    color: hsl(215, 51%, 70%);
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.eth-para{
+    color: hsl(178, 100%, 50%);
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.eth-time{
+    color: hsl(215, 51%, 70%);
+    font-size: 13px;
+    padding-left: 45px;
+    font-weight: 300;
+}
+
+i{
+    float: left;
+    padding-right: 5px ;
+}
+
+.create{
+    color: hsl(215, 51%, 70%);
+}
+
+.img-profile{
+    padding-right: 10px;
+    max-width:40px;
+    float: left;
+}
+
+hr{
+    color: hsl(215, 32%, 27%);
+    margin: 0px 0px 10px 0px;
+}
+
+em{
+    color: hsl(0, 0%, 100%);
+}
